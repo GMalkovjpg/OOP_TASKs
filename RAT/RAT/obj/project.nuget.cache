@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xq1zAULq8C13cDyZEPngC5/ary4YO1/geUwnXn0IdDf7pW+YvAzHWfue8Fz1No+kbL6HEAJq6YCk3OAAT1ve6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DieSamurai\\source\\repos\\RAT\\RAT\\RAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DieSamurai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

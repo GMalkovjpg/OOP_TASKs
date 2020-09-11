@@ -1,0 +1,15 @@
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.exe
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.deps.json
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.runtimeconfig.json
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.runtimeconfig.dev.json
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.dll
+C:\Users\DieSamurai\source\repos\RAT\RAT\bin\Debug\netcoreapp3.1\RAT.pdb
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.csprojAssemblyReference.cache
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.Form1.resources
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.csproj.GenerateResource.cache
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.AssemblyInfoInputs.cache
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.AssemblyInfo.cs
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.csproj.CoreCompileInputs.cache
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.dll
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.pdb
+C:\Users\DieSamurai\source\repos\RAT\RAT\obj\Debug\netcoreapp3.1\RAT.genruntimeconfig.cache
